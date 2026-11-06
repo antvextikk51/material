@@ -48,3 +48,4 @@ jobs:
             --title "ИИ Агент" \
             --notes "Скачай AiAgent.apk и установи на телефон." \
             --latest
+
